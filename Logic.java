@@ -1,7 +1,7 @@
 package by.epam.javatraining.ValeriiaAmialchenia.maintask01.additionaltask;
 
 import java.util.Arrays;
-import java.util.Random;
+
 
 /*
   @version 1.0 27 Dec 2018
