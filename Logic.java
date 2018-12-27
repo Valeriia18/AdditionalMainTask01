@@ -126,9 +126,7 @@ public class Logic {
         for (int i = 0; i < matrixIn.length; i++) {
             for (int j = 0; j < matrixIn.length; j++) {
                 System.out.println(matrixIn[i][j]);
-//                System.out.println(" ");
-//                System.out.println(Arrays.toString(matrixIn[i]));
-//                System.out.println(Arrays.toString(matrixIn[j]));
+               
             }       
         }
 
